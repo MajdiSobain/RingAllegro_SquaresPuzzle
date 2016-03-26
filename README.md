@@ -1,0 +1,1 @@
+# RIngAllegro_SquaresPuzzle
